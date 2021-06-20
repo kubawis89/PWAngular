@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624183446833,
+  "timestamp": 1624184634336,
   "index": "https://kubawis89/github.io/PWAngular/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "https://kubawis89/github.io/PWAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://kubawis89/github.io/PWAngular/index.html": "953f4356fd70b29a3c46ab3c92056dc870c9e476",
     "https://kubawis89/github.io/PWAngular/main.129906997c3656fad301.js": "6fcdbd411a39d3d336119587957d5e5d94e72717",
-    "https://kubawis89/github.io/PWAngular/manifest.webmanifest": "5166fe4cd41c35b613b5b023060f5b35c308dd15",
+    "https://kubawis89/github.io/PWAngular/manifest.webmanifest": "5393d80901eb45d9e32eccd2bccb3743df2a85f3",
     "https://kubawis89/github.io/PWAngular/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "https://kubawis89/github.io/PWAngular/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://kubawis89/github.io/PWAngular/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
